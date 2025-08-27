@@ -6,7 +6,7 @@ import javax.servlet.http.*;
 // Extend HttpServlet class
 public class Hello extends HttpServletsssee {
 
-   private String message;
+   private string message;
 
    public void init() throws ServletException {
       // Do required initialization
